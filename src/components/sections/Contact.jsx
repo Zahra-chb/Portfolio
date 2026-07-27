@@ -16,7 +16,7 @@ const Contact = () => {
  // Après
 const SERVICE_ID = 'service_j01syuo';
 const TEMPLATE_ID = '3kfdb6d';  
-const PUBLIC_KEY = 'Zxns8mRYWSK3Kph0M';
+const PUBLIC_KEY = 'nGfoUZDdFwoj_ZNvf';
 
   const handleSubmit = (e) => {
     e.preventDefault();
