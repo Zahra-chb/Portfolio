@@ -141,6 +141,22 @@ export const projects = [
   },
   {
     id: 4,
+    title: "Cakes & Juices Shop",
+    description: "Simple e-commerce front-end project",
+    features: [
+      "Product catalog for cakes and juices",
+      "Interactive shopping cart",
+      "Quantity management",
+      "Persistent cart data with localStorage",
+      "Responsive and user-friendly interface",
+    ],
+    tech: ["HTML", "CSS", "JavaScript", "localStorage"],
+    github: "https://github.com/Zahra-chb/cakes-juices-shop.git",
+    live: "#",
+    image: "https://via.placeholder.com/600x400/FF9800/FFFFFF?text=Cakes+%26+Juices",
+  },
+  {
+    id: 5,
     title: "Student Attendance System",
     description: "Academic attendance management system",
     features: [
