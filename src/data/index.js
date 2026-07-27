@@ -2,7 +2,7 @@ export const personalInfo = {
   name: "Chibah Zahra",
   title: "Computer Science Master's Student",
   subtitle: "AI & Software Engineering Enthusiast",
-  email: "zahra.chibah@email.com",
+  email: "zahra.chibah@univ-alger.dz",
   github: "https://github.com/Zahra-chb",
   linkedin: "https://www.linkedin.com/in/zahra-chibah-2a4052383/",
 };
