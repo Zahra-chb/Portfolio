@@ -125,6 +125,22 @@ export const projects = [
   },
   {
     id: 3,
+    title: "Budget Allocation App",
+    description: "React-based budget management web application",
+    features: [
+      "Real-time expense tracking",
+      "Budget editing and allocation",
+      "Interactive charts",
+      "Data persistence with React Context API",
+      "State management with useReducer",
+    ],
+    tech: ["React", "Context API", "useReducer", "JavaScript", "CSS"],
+    github: "https://github.com/Zahra-chb/ejtos-react_budget_app.git",
+    live: "#",
+    image: "https://via.placeholder.com/600x400/4CAF50/FFFFFF?text=Budget+App",
+  },
+  {
+    id: 4,
     title: "Student Attendance System",
     description: "Academic attendance management system",
     features: [
@@ -138,7 +154,7 @@ export const projects = [
     tech: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/Zahra-chb/student-attendance-system",
     live: "#",
-    image: "https://via.placeholder.com/600x400/4CAF50/FFFFFF?text=Attendance+System",
+    image: "https://via.placeholder.com/600x400/FF9800/FFFFFF?text=Attendance+System",
   },
 ];
 
