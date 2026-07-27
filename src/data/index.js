@@ -108,6 +108,23 @@ export const projects = [
   },
   {
     id: 2,
+    title: "ToyLand",
+    description: "Toy management desktop application",
+    features: [
+      "Product catalog with search and filter",
+      "Dynamic shopping cart (add/remove items)",
+      "Order management and history",
+      "Data persistence with file storage",
+      "User-friendly GUI with Java Swing",
+      "Object-oriented design (MVC pattern)",
+    ],
+    tech: ["Java", "Swing", "OOP", "File I/O"],
+    github: "https://github.com/Zahra-chb/ToyLand.git",
+    live: "#",
+    image: "https://via.placeholder.com/600x400/FF6584/FFFFFF?text=ToyLand",
+  },
+  {
+    id: 3,
     title: "Student Attendance System",
     description: "Academic attendance management system",
     features: [
@@ -121,7 +138,7 @@ export const projects = [
     tech: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/Zahra-chb/student-attendance-system",
     live: "#",
-    image: "https://via.placeholder.com/600x400/FF6584/FFFFFF?text=Attendance+System",
+    image: "https://via.placeholder.com/600x400/4CAF50/FFFFFF?text=Attendance+System",
   },
 ];
 
