@@ -177,15 +177,15 @@ export const projects = [
 export const education = [
   {
     institution: "University of Algiers 1",
-    degree: "Master's in Intelligent Computer Systems Engineering",
-    period: "2023 - Present",
-    description: "Specializing in AI, Machine Learning, and Intelligent Systems. Working on cutting-edge research in computer vision and natural language processing.",
+    degree: "Master's in ISII - Intelligent Systems Engineering",
+    period: "2023 - 2026",
+    description: "Specializing in Artificial Intelligence, Machine Learning, and Intelligent Systems. Research focus on computer vision and natural language processing.",
   },
   {
     institution: "University of Algiers 1",
-    degree: "Bachelor's Degree in Computer Science",
+    degree: "Bachelor's in ISIL - Information Systems and Software Engineering",
     period: "2019 - 2023",
-    description: "Comprehensive study of computer science fundamentals including algorithms, data structures, databases, and software engineering principles.",
+    description: "Comprehensive study of software engineering, database design, and information systems architecture.",
   },
 ];
 
