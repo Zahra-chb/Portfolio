@@ -7,7 +7,7 @@ import Skills from './components/sections/Skills';
 import Experience from './components/sections/Experience';
 import Projects from './components/sections/Projects';
 import Education from './components/sections/Education';
-import Certifications from './components/sections/Certifications';
+// import Certifications from './components/sections/Certifications'; // ← À SUPPRIMER
 import Contact from './components/sections/Contact';
 import ScrollProgress from './components/ui/ScrollProgress';
 import ScrollToTop from './components/ui/ScrollToTop';
@@ -39,7 +39,7 @@ function App() {
         <Experience />
         <Projects />
         <Education />
-        <Certifications />
+        {/* <Certifications /> */} {/* ← À SUPPRIMER */}
         <Contact />
       </main>
       <Footer />
