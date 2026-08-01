@@ -178,13 +178,13 @@ export const education = [
   {
     institution: "University of Algiers 1",
     degree: "Master's in ISII - Intelligent Systems Engineering",
-    period: "2023 - 2026",
+    period: "2026 - Present",
     description: "Specializing in Artificial Intelligence, Machine Learning, and Intelligent Systems. Research focus on computer vision and natural language processing.",
   },
   {
     institution: "University of Algiers 1",
     degree: "Bachelor's in ISIL - Information Systems and Software Engineering",
-    period: "2019 - 2023",
+    period: "2023 - 2026",
     description: "Comprehensive study of software engineering, database design, and information systems architecture.",
   },
 ];
